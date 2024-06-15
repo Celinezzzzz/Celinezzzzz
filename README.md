@@ -16,7 +16,7 @@
 
 - 👯 Creative Collaborator: **I love bringing innovative ideas to life with others. Let's build something cool together!**
 
-- 📫 How to reach me <a href="mailto:celine_zhou@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/></a>
+- 📫 How to reach me: <a href="mailto:celine_zhou@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/></a>
 
 - 📄 Know about my experiences: <a href="https://linkedin.com/in/zhouceline/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
