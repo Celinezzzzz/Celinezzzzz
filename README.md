@@ -10,7 +10,7 @@
 
 - 🌱 Studying **Computer Science** at **Georgia Institute of Technology, Atlanta, United States**
 
-- 👨‍💻 Check out all of my projects on my [**Portfolio**]([https://Celinezzzzz.github.io])
+- 👨‍💻 Check out all of my projects on my [**Portfolio**](https://Celinezzzzz.github.io)
 
 - 🌲 Outdoor Enthusiast: **When I'm not coding, you can find me hiking, snowboarding, paddle boarding, and motor scooter riding**
 
