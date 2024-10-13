@@ -12,9 +12,9 @@
 
 - 👨‍💻 Check out all of my projects on my [**Portfolio**](https://Celinezzzzz.github.io)
 
-- 🌲 Outdoor Enthusiast: **When I'm not coding, you can find me hiking, snowboarding, paddle boarding, and motor scooter riding**
+- 🌲 Outdoor Enthusiast: When I'm not coding, you can find me hiking, snowboarding, paddle boarding, and motor scooter riding
 
-- 👯 Creative Collaborator: **I love bringing innovative ideas to life with others. Let's build something cool together!**
+- 👯 Creative Collaborator: I love bringing innovative ideas to life with others. Let's build something cool together!
 
 - 📫 How to reach me: <a href="mailto:celine_zhou@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/></a>
 
